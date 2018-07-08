@@ -1,0 +1,12 @@
+name = "Private Military Companies";
+picture = "";
+actionName = "GitHub";
+action = "https://github.com/Kimukun/PMC";
+description = "A PMC for each faction";
+logo = "";
+logoOver = "";
+tooltip = "Private Military Companies";
+tooltipOwned = "Private Military Companies Owned";
+overview = "";
+author = "Kimukun";
+overviewPicture = "";
